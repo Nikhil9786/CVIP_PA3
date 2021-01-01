@@ -10,3 +10,5 @@ There are two .py files in the repo-
 * `features.py`
 
 Run in the given order only.
+
+For more information go through the detailed [Report](Report.pdf)
